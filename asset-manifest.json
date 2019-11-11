@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/redux_ordering-food/static/css/main.b100e6da.chunk.css",
-    "main.js": "/redux_ordering-food/static/js/main.782684c5.chunk.js",
-    "main.js.map": "/redux_ordering-food/static/js/main.782684c5.chunk.js.map",
+    "main.css": "/redux_ordering-food/static/css/main.8b573827.chunk.css",
+    "main.js": "/redux_ordering-food/static/js/main.2c090751.chunk.js",
+    "main.js.map": "/redux_ordering-food/static/js/main.2c090751.chunk.js.map",
     "runtime-main.js": "/redux_ordering-food/static/js/runtime-main.d5708192.js",
     "runtime-main.js.map": "/redux_ordering-food/static/js/runtime-main.d5708192.js.map",
-    "static/js/2.b769e8a2.chunk.js": "/redux_ordering-food/static/js/2.b769e8a2.chunk.js",
-    "static/js/2.b769e8a2.chunk.js.map": "/redux_ordering-food/static/js/2.b769e8a2.chunk.js.map",
+    "static/js/2.14bafd23.chunk.js": "/redux_ordering-food/static/js/2.14bafd23.chunk.js",
+    "static/js/2.14bafd23.chunk.js.map": "/redux_ordering-food/static/js/2.14bafd23.chunk.js.map",
     "index.html": "/redux_ordering-food/index.html",
-    "precache-manifest.b4e7cd295777cc788663df85440bced1.js": "/redux_ordering-food/precache-manifest.b4e7cd295777cc788663df85440bced1.js",
+    "precache-manifest.0e501fa23d865c4b188f48f70f920bf4.js": "/redux_ordering-food/precache-manifest.0e501fa23d865c4b188f48f70f920bf4.js",
     "service-worker.js": "/redux_ordering-food/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/redux_ordering-food/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/redux_ordering-food/static/media/logo.25bf045c.svg"
+    "static/css/main.8b573827.chunk.css.map": "/redux_ordering-food/static/css/main.8b573827.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.d5708192.js",
-    "static/js/2.b769e8a2.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.782684c5.chunk.js"
+    "static/js/2.14bafd23.chunk.js",
+    "static/css/main.8b573827.chunk.css",
+    "static/js/main.2c090751.chunk.js"
   ]
 }
