@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb586bf53551c4a8314a2c6c29431b4a",
+    "revision": "a01ef3886e5b940daa2188564c6eb6ba",
     "url": "/redux_ordering-food/index.html"
   },
   {
-    "revision": "b53c28783a52ed7c625b",
+    "revision": "f2976026f35474e4901f",
     "url": "/redux_ordering-food/static/css/main.8b573827.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/redux_ordering-food/static/js/2.14bafd23.chunk.js"
   },
   {
-    "revision": "b53c28783a52ed7c625b",
-    "url": "/redux_ordering-food/static/js/main.2c090751.chunk.js"
+    "revision": "f2976026f35474e4901f",
+    "url": "/redux_ordering-food/static/js/main.2b43c200.chunk.js"
   },
   {
     "revision": "0dc3ae24071a44f9a397",
