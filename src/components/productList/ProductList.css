@@ -1,0 +1,7 @@
+.productList {
+  width: 300px;
+}
+
+.selectedItem {
+  background-color: #eee;
+}
