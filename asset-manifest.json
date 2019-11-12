@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/redux_ordering-food/static/css/main.8b573827.chunk.css",
-    "main.js": "/redux_ordering-food/static/js/main.2b43c200.chunk.js",
-    "main.js.map": "/redux_ordering-food/static/js/main.2b43c200.chunk.js.map",
+    "main.css": "/redux_ordering-food/static/css/main.2034f5e3.chunk.css",
+    "main.js": "/redux_ordering-food/static/js/main.dbf2a006.chunk.js",
+    "main.js.map": "/redux_ordering-food/static/js/main.dbf2a006.chunk.js.map",
     "runtime-main.js": "/redux_ordering-food/static/js/runtime-main.d5708192.js",
     "runtime-main.js.map": "/redux_ordering-food/static/js/runtime-main.d5708192.js.map",
-    "static/js/2.14bafd23.chunk.js": "/redux_ordering-food/static/js/2.14bafd23.chunk.js",
-    "static/js/2.14bafd23.chunk.js.map": "/redux_ordering-food/static/js/2.14bafd23.chunk.js.map",
+    "static/js/2.57b9ae7a.chunk.js": "/redux_ordering-food/static/js/2.57b9ae7a.chunk.js",
+    "static/js/2.57b9ae7a.chunk.js.map": "/redux_ordering-food/static/js/2.57b9ae7a.chunk.js.map",
     "index.html": "/redux_ordering-food/index.html",
-    "precache-manifest.ddb024b4364952c2ae167ee9f286a683.js": "/redux_ordering-food/precache-manifest.ddb024b4364952c2ae167ee9f286a683.js",
+    "precache-manifest.fbea95e60c24b06ef477a0c9b4ce2ae7.js": "/redux_ordering-food/precache-manifest.fbea95e60c24b06ef477a0c9b4ce2ae7.js",
     "service-worker.js": "/redux_ordering-food/service-worker.js",
-    "static/css/main.8b573827.chunk.css.map": "/redux_ordering-food/static/css/main.8b573827.chunk.css.map"
+    "static/css/main.2034f5e3.chunk.css.map": "/redux_ordering-food/static/css/main.2034f5e3.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.d5708192.js",
-    "static/js/2.14bafd23.chunk.js",
-    "static/css/main.8b573827.chunk.css",
-    "static/js/main.2b43c200.chunk.js"
+    "static/js/2.57b9ae7a.chunk.js",
+    "static/css/main.2034f5e3.chunk.css",
+    "static/js/main.dbf2a006.chunk.js"
   ]
 }

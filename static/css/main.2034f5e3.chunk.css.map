@@ -1,0 +1,1 @@
+{"version":3,"sources":["ProductList.css"],"names":[],"mappings":"AAAA,aACE,WACF,CAEA,cACE,qBACF","file":"main.2034f5e3.chunk.css","sourcesContent":[".productList {\n  width: 300px;\n}\n\n.selectedItem {\n  background-color: #eee;\n}\n"]}
